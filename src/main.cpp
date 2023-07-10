@@ -1,7 +1,6 @@
 /*
     Author Wessely Leon
     Date: 10/7/2023
-    Compile Command: g++ main.cpp -o main
 */
 
 #include <iostream>
